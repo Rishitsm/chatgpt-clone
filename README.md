@@ -6,7 +6,7 @@
 
 The project uses Flask (Python package), Tailwind CSS, JavaScript and MongoDB for storing data. Docker file has been created of the repo which has been rendered on Render.
 
-Web App is accessible here - [ChatGPT-Clone](https://harshgptclone.onrender.com/)
+Web App is accessible here - [ChatGPT-Clone](https://chatgpt-clone-8vc8.onrender.com//)
 
 See demonstration video on Youtube - [Demo Preview](https://youtu.be/ki2X6bPT75w)
 
