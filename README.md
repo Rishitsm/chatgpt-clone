@@ -8,8 +8,6 @@ The project uses Flask (Python package), Tailwind CSS, JavaScript and MongoDB fo
 
 Web App is accessible here - [ChatGPT-Clone](https://chatgpt-clone-8vc8.onrender.com//)
 
-See demonstration video on Youtube - [Demo Preview](https://youtu.be/ki2X6bPT75w)
-
 (More Updates will be implemented Later)
 
 ## Requirements
